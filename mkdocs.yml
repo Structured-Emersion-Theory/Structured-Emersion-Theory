@@ -1,0 +1,28 @@
+site_name: Structured Emersion Theory
+site_url: https://structured-emersion-theory.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Glossary: docs/Glossary.md
+  - Equations: docs/Equations.md
+  - Law Candidates: docs/law_candidates.md
+  - Glossary Candidates: docs/Glossary_Candidates.md
+  - Equation Candidates: docs/equation_candidates.md
+  - Integration Protocol: docs/Integration_Protocol.md
+  - Preface:
+      - All Files: docs/Preface/
+  - Workbench:
+      - All Files: docs/Workbench/
+  - Modules:
+      - All Files: modules/
+  - Simulations:
+      - All Files: sim/
