@@ -12,16 +12,19 @@ theme:
 
 nav:
   - Home: index.md
-  - Glossary: docs/Glossary.md
-  - Equations: docs/Equations.md
-  - Law Candidates: docs/law_candidates.md
-  - Glossary Candidates: docs/Glossary_Candidates.md
-  - Equation Candidates: docs/equation_candidates.md
-  - Integration Protocol: docs/Integration_Protocol.md
+  - Core Docs:
+      - Glossary: Glossary.md
+      - Equations: Equations.md
+      - Law Candidates: law_candidates.md
+      - Glossary Candidates: Glossary_Candidates.md
+      - Equation Candidates: equation_candidates.md
+      - Integration Protocol: Integration_Protocol.md
+  - Archive:
+      - All Files: archive/
   - Preface:
-      - All Files: docs/Preface/
+      - All Files: Preface/
   - Workbench:
-      - All Files: docs/Workbench/
+      - All Files: Workbench/
   - Modules:
       - All Files: modules/
   - Simulations:
