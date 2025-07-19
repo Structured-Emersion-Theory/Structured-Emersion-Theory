@@ -1,51 +1,41 @@
 site_name: Structured Emersion Theory
 site_url: https://structured-emersion-theory.github.io
 
-theme:
-  name: material
-  palette:
-    scheme: slate
-    primary: deep purple
-    accent: indigo
-  features: [navigation.tabs, navigation.top]
 
-nav:
-  - Home: index.md
+## Canonical Index of Live Markdown Files
 
-  - Core Docs:
-      - Glossary: Glossary.md
-      - Equations: Equations.md
-      - Integration Protocol: Integration_Protocol.md
+This file serves as the access layer for SET's GitHub Pages mirror. It lists all current canonical `.md` files publicly accessible at:
+> https://structured-emersion-theory.github.io/Structured-Emersion-Theory/
 
-  - Review Queues:
-      - Law Candidates: law_candidates.md
-      - Glossary Candidates: Glossary_Candidates.md
-      - Equation Candidates: equation_candidates.md
+---
 
-  - Theory Modules:
-      - index.md: modules/index.md      # folder landing
-      - Consciousness Field: modules/Consciousness_Field.md
-      - Field Collisions: modules/Field_Collisions.md
-      - Laws of Structure: modules/Laws_of_Structure.md
-      - Node Theory: modules/Node_Theory.md
-      - Quantum Reframes: modules/Quantum_Reframes.md
-      - Time Tempo: modules/Time_Tempo.md
+## 📘 Core Canon
+- [Laws_of_Structure.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Laws_of_Structure.md)
+- [Equations.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Equations.md)
+- [Glossary.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Glossary.md)
+- [GitHub_Integration_Protocol.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/GitHub_Integration_Protocol.md)
 
-  - Simulation Folder:
-      - index.md: sim/index.md
-      - Notes & Experimental Design: sim/Simulation_Notes.md
+---
 
-  - Preface:
-      - index.md: Preface/index.md
-      - Reflections from the Edge: Preface/Reflections_from_the_Edge.md
+## 🧠 Philosophy & Origin
+- [Reflections_from_the_Edge.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Preface/Reflections_from_the_Edge.html)
 
-  - Workbench:
-      - index.md: Workbench/index.md
-      - Charge & Field Alignment: Workbench/Charge_Field_Alignment.md
-      - Ripple Cascade: Workbench/Ripple_Cascade.md
+---
 
-  - Archive (Deprecated Drafts):
-      - index.md: archive/index.md
-      - Core Concepts: archive/core_concepts.md
-      - Equations & Formalizations: archive/equations.md
-      - Meta Reflections: archive/meta_reflections.md
+## 🧮 Modules
+<!-- Add confirmed module links here as they are added -->
+
+
+---
+
+## 🔍 Candidate & Workbench (Optional Sections)
+- _Add when stabilized or versioned_
+
+---
+
+## 📁 Archive
+- _Optional link list if public-facing archive is maintained_
+
+---
+
+> ✅ Use this index to keep AI review logic aligned with canon. Update after each commit to maintain full structural visibility.
