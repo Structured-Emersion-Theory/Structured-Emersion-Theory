@@ -1,107 +1,51 @@
-# Structured Emersion Theory
-## GitHub Canon Integration Protocol (GCIP)
+site_name: Structured Emersion Theory
+site_url: https://structured-emersion-theory.github.io
 
----
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  features: [navigation.tabs, navigation.top]
 
-### ✅ Step 1: Verify GitHub Canon Mirror Is Synced
+nav:
+  - Home: index.md
 
-Before any file is reviewed:
-- Confirm the GitHub mirror at:
-  > `https://structured-emersion-theory.github.io/Structured-Emersion-Theory/`
-  reflects the **most current state** of the repository.
-- Ensure all canonical files are present:
-  - `Laws_of_Structure.md`
-  - `Equations.md`
-  - `Glossary.md`
-  - Finalized module `.md` files
+  - Core Docs:
+      - Glossary: Glossary.md
+      - Equations: Equations.md
+      - Integration Protocol: Integration_Protocol.md
 
----
+  - Review Queues:
+      - Law Candidates: law_candidates.md
+      - Glossary Candidates: Glossary_Candidates.md
+      - Equation Candidates: equation_candidates.md
 
-### ✅ Step 2: Intake File Classification
+  - Theory Modules:
+      - index.md: modules/index.md      # folder landing
+      - Consciousness Field: modules/Consciousness_Field.md
+      - Field Collisions: modules/Field_Collisions.md
+      - Laws of Structure: modules/Laws_of_Structure.md
+      - Node Theory: modules/Node_Theory.md
+      - Quantum Reframes: modules/Quantum_Reframes.md
+      - Time Tempo: modules/Time_Tempo.md
 
-For each incoming file:
-1. Classify its type:
-   - `module` (theory, mechanic, or principle)
-   - `doc` (white paper, glossary, reflection, etc.)
-   - `sim` (simulation logic or system code)
-   - `candidate` (equation, glossary, or law candidate)
-2. Assign target directory:
-   - `/modules/`
-   - `/docs/`
-   - `/sim/`
-   - `/archive/` (for deprecated material)
+  - Simulation Folder:
+      - index.md: sim/index.md
+      - Notes & Experimental Design: sim/Simulation_Notes.md
 
----
+  - Preface:
+      - index.md: Preface/index.md
+      - Reflections from the Edge: Preface/Reflections_from_the_Edge.md
 
-### ✅ Step 3: Canon Logic Scrub
+  - Workbench:
+      - index.md: Workbench/index.md
+      - Charge & Field Alignment: Workbench/Charge_Field_Alignment.md
+      - Ripple Cascade: Workbench/Ripple_Cascade.md
 
-Each new file is reviewed against the following canonical documents:
-- `Equations.md`
-- `Glossary.md`
-- `Laws_of_Structure.md`
-- Existing `/modules/`
-
-Checks performed:
-- Redundancy: Is this already expressed elsewhere?
-- Conflict: Does it contradict canon?
-- Drift: Does it reflect outdated terminology?
-- Omission: Does it define a concept or mechanic that belongs in the glossary, equations, or laws?
-
-Action items:
-- New glossary terms → `Glossary_Candidates.md`
-- New or inconsistent equations → `Equation_Candidates.md`
-- New foundational claims → `Law_Candidates.md`
-
----
-
-### ✅ Step 4: Clean Formatting & Commit Prep
-
-If file passes logic scrub:
-- Convert to Markdown `.md`
-- Remove non-canon headers/footers unless essential
-- Apply SET format standards:
-  - CamelCase filenames
-  - Sentence-cased section headers
-  - Inline canonical references (e.g., _[see Law 7]_) when relevant
-
----
-
-### ✅ Step 5: GitHub Commit Guidelines
-
-On commit:
-- Place in correct repo directory
-- Use descriptive commit message:
-  ```
-  Add [filename] to [folder]: [summary]
-  ```
-  Example: `Add RippleDecay.md to modules: defines ripple dissipation over time`
-
-If file replaces another:
-- Move old version to `/archive/`
-- Note replacement in commit message
-
----
-
-### ✅ Step 6: Update Canon Mirror
-
-After pushing to GitHub:
-- Update GitHub Pages mirror:
-  > `https://structured-emersion-theory.github.io/Structured-Emersion-Theory/`
-- Confirm new file is visible and linked
-- Ensure folder views or manual indexes are consistent (if applicable)
-
----
-
-### ✅ Step 7: Final Coherence Review (Optional)
-
-For major milestones or releases:
-- Re-run a full structure-wide coherence pass:
-  - All modules
-  - `Glossary.md`
-  - `Equations.md`
-  - `Laws_of_Structure.md`
-- Confirm no conflicting terms, concepts, or math remain
-
----
-
-This protocol ensures Structural Emersion Theory remains testable, logically unified, and transparently maintained as a living research project.
+  - Archive (Deprecated Drafts):
+      - index.md: archive/index.md
+      - Core Concepts: archive/core_concepts.md
+      - Equations & Formalizations: archive/equations.md
+      - Meta Reflections: archive/meta_reflections.md
