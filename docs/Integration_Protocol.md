@@ -1,74 +1,107 @@
-
-# SET Canon Integration Protocol
-
-This protocol defines the official checklist used to verify, scrub, and integrate any file into the Structured Emersion Theory (SET) repository.
+# Structured Emersion Theory
+## GitHub Canon Integration Protocol (GCIP)
 
 ---
 
-## ✅ Phase 1 – File Audit
+### ✅ Step 1: Verify GitHub Canon Mirror Is Synced
 
-1. **Intent Check**  
-   What is the purpose of the file?  
-   - Theory explanation  
-   - Equation development  
-   - Simulation logic  
-   - Glossary definition  
-   - White paper or reference  
-
-2. **Term Extraction**  
-   - Identify all new terminology, including invented phrases or symbolic labels  
-   - Flag terms not yet listed in `Glossary.md`  
-
-3. **Equation Detection**  
-   - Check for mathematical statements  
-   - Ensure equations match existing entries in `Equations.md`  
-   - If not present but needed, propose addition to `equation_candidates.md`
+Before any file is reviewed:
+- Confirm the GitHub mirror at:
+  > `https://structured-emersion-theory.github.io/Structured-Emersion-Theory/`
+  reflects the **most current state** of the repository.
+- Ensure all canonical files are present:
+  - `Laws_of_Structure.md`
+  - `Equations.md`
+  - `Glossary.md`
+  - Finalized module `.md` files
 
 ---
 
-## 🔁 Phase 2 – Canon Validation
+### ✅ Step 2: Intake File Classification
 
-4. **Law Reference Check**  
-   - Ensure all referenced laws match `Laws_of_Structure.md`  
-   - Remove or rewrite deprecated law names  
-   - If a behavior implies a new law, propose it to `law_candidates.md`  
-
-5. **Glossary Compliance**  
-   - All unique terms must either:
-     - Exist in `Glossary.md`, or  
-     - Be proposed for inclusion with definition  
-
-6. **Structural Logic Scan**  
-   - Validate that document logic does not violate any confirmed law  
-   - Refactor text if internal contradiction is found  
-   - Annotate clearly where behavior supports or emerges from a law  
+For each incoming file:
+1. Classify its type:
+   - `module` (theory, mechanic, or principle)
+   - `doc` (white paper, glossary, reflection, etc.)
+   - `sim` (simulation logic or system code)
+   - `candidate` (equation, glossary, or law candidate)
+2. Assign target directory:
+   - `/modules/`
+   - `/docs/`
+   - `/sim/`
+   - `/archive/` (for deprecated material)
 
 ---
 
-## 🔄 Phase 3 – GitHub Readiness
+### ✅ Step 3: Canon Logic Scrub
 
-7. **Rewrite & Reformat**  
-   - Remove informal tone or speculative draft phrasing  
-   - Use consistent markdown formatting (headings, spacing, etc.)  
+Each new file is reviewed against the following canonical documents:
+- `Equations.md`
+- `Glossary.md`
+- `Laws_of_Structure.md`
+- Existing `/modules/`
 
-8. **Folder Placement**  
-   - `/docs/Workbench/`: Experimental or under review  
-   - `/docs/`: Confirmed reference material  
-   - `/modules/`: Core theoretical content  
-   - `/sim/`: Simulation engines or logic rules  
+Checks performed:
+- Redundancy: Is this already expressed elsewhere?
+- Conflict: Does it contradict canon?
+- Drift: Does it reflect outdated terminology?
+- Omission: Does it define a concept or mechanic that belongs in the glossary, equations, or laws?
 
-9. **Canon Tagging**  
-   - Annotate file with all law references used  
-   - Add `[Canonical]` tag to header if the file passes all validation  
-
----
-
-## 🧠 Ongoing Candidate Logs
-
-Use the following files to track emerging theory:
-- `law_candidates.md` — Proposed additions to the Laws of Structure  
-- `equation_candidates.md` — Proposed equations pending formal review  
+Action items:
+- New glossary terms → `Glossary_Candidates.md`
+- New or inconsistent equations → `Equation_Candidates.md`
+- New foundational claims → `Law_Candidates.md`
 
 ---
 
-_This document governs structural integrity for all contributions to SET._
+### ✅ Step 4: Clean Formatting & Commit Prep
+
+If file passes logic scrub:
+- Convert to Markdown `.md`
+- Remove non-canon headers/footers unless essential
+- Apply SET format standards:
+  - CamelCase filenames
+  - Sentence-cased section headers
+  - Inline canonical references (e.g., _[see Law 7]_) when relevant
+
+---
+
+### ✅ Step 5: GitHub Commit Guidelines
+
+On commit:
+- Place in correct repo directory
+- Use descriptive commit message:
+  ```
+  Add [filename] to [folder]: [summary]
+  ```
+  Example: `Add RippleDecay.md to modules: defines ripple dissipation over time`
+
+If file replaces another:
+- Move old version to `/archive/`
+- Note replacement in commit message
+
+---
+
+### ✅ Step 6: Update Canon Mirror
+
+After pushing to GitHub:
+- Update GitHub Pages mirror:
+  > `https://structured-emersion-theory.github.io/Structured-Emersion-Theory/`
+- Confirm new file is visible and linked
+- Ensure folder views or manual indexes are consistent (if applicable)
+
+---
+
+### ✅ Step 7: Final Coherence Review (Optional)
+
+For major milestones or releases:
+- Re-run a full structure-wide coherence pass:
+  - All modules
+  - `Glossary.md`
+  - `Equations.md`
+  - `Laws_of_Structure.md`
+- Confirm no conflicting terms, concepts, or math remain
+
+---
+
+This protocol ensures Structural Emersion Theory remains testable, logically unified, and transparently maintained as a living research project.
