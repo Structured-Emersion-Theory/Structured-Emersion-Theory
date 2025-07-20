@@ -4,10 +4,11 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: deep purple
+    primary: "deep purple"
     accent: indigo
   features:
-    - navigation.top
+    - navigation.sections
+
 
 nav:
   - Home: index.md
