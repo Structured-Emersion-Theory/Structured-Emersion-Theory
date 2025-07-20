@@ -39,9 +39,11 @@ Field Convergence & Collision: https://structured-emersion-theory.github.io/Stru
 
 Quantum Phenomena Reframed via SET: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Quantum_Reframes/
 
-Time as Emergent Tempo: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Time_Tempo/
+Time as Emergent Tempo: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Time_Tempo
 
 Consciousness as Participatory Node Activation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Consciousness_Field/
+
+
 ---
 
 ## Workbench
