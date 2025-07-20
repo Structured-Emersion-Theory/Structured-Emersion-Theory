@@ -22,7 +22,6 @@ nav:
       - Law Candidates: law_candidates.md
       - Glossary Candidates: Glossary_Candidates.md
       - Equation Candidates: equation_candidates.md
-      - Integration Protocol: Integration_Protocol.md
   - Workbench:
       - Charge Field Alignment: Workbench/Charge_Field_Alignment.md
       - Ripple Cascade: Workbench/Ripple_Cascade.md
@@ -40,3 +39,5 @@ nav:
       - Core Concepts: archive/core_concepts.md
       - Equations (Meta): archive/equations.md
       - Meta Reflections: archive/meta_reflections.md
+  - For AI Assistants:
+      - Integration Protocol: Integration_Protocol.md
