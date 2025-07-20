@@ -21,7 +21,7 @@ nav:
       - Equations: core/Equations.md
   - Candidates:
       - Law Candidates: candidates_conflicts/law_candidates.md
-      - Glossary Candidates: candidates_conflicts/Glossary_Candidates.md
+      - Glossary Candidates: candidates_conflicts/glossary_candidates.md
       - Equation Candidates: candidates_conflicts/equation_candidates.md 
   - Modules:
       - Node Theory: modules/Node_Theory.md
