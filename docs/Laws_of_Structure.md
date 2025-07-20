@@ -1,6 +1,4 @@
-Structured Emersion Theory
-
-The Laws of Structure
+# The Laws of Structure
 
 Law 1 – Existence as Emergence
 Nothing exists independently. All observable phenomena emerge from the interaction of structure.

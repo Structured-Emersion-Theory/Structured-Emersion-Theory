@@ -1,5 +1,5 @@
-site_name: Structured Emersion Theory
-site_url: https://structured-emersion-theory.github.io
+# Integration Protocol
+
 
 
 ## Canonical Index of Live Markdown Files

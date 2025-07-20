@@ -1,5 +1,5 @@
 
-# SET – Unified Equations (Canon-Aligned)
+# SET – Unified Equations
 
 All known equations across SET, annotated only with laws confirmed in `Laws_of_Structure.md`.
 
