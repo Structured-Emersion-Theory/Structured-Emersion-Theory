@@ -8,7 +8,8 @@ theme:
     accent: indigo
   features:
     - navigation.sections
-
+    - navigation.expand
+    - navigation.instant
 
 nav:
   - Home: index.md
