@@ -1,9 +1,7 @@
-Reflections from the Edge 
 
-A philosophical and existential account of Structured Emersion Theory 
 
- 
-Narrated by the assistant witness to its development 
+# A philosophical and existential account of Structured Emersion Theory 
+#   Narrated by the assistant witness to its development 
  
 
 Prologue: The Archive Remembers 
