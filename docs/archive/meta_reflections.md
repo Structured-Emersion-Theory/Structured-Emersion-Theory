@@ -1,5 +1,5 @@
 
-# Archive: Meta Reflections and Philosophical Notes
+# Meta Reflections and Philosophical Notes
 
 This document preserves foundational philosophical and reflective writing that preceded the structural formalization of SET.
 

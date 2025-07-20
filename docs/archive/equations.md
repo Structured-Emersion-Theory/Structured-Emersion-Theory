@@ -1,5 +1,5 @@
 
-# Archive: Equations and Formalizations (Historical Draft)
+# Equations and Formalizations (Historical Draft)
 
 This document contains early formulations of SET's structural mathematics.
 

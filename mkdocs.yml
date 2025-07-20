@@ -22,18 +22,16 @@ nav:
       - Law Candidates: law_candidates.md
       - Glossary Candidates: Glossary_Candidates.md
       - Equation Candidates: equation_candidates.md
+  - Modules:
+      - Node Theory: modules/Node_Theory.md
+      - Field Collisions: modules/Field_Collisions.md
+      - Quantum Reframes: modules/Quantum_Reframes.md
+      - Time Tempo: modules/Time_Tempo.md
+      - Consciousness Field: modules/Consciousness_Field.md
   - Workbench:
       - Charge Field Alignment: Workbench/Charge_Field_Alignment.md
       - Ripple Cascade: Workbench/Ripple_Cascade.md
-  - Modules:
-      - README: modules/README.md
-      - Consciousness Field: modules/Consciousness_Field.md
-      - Field Collisions: modules/Field_Collisions.md
-      - Node Theory: modules/Node_Theory.md
-      - Quantum Reframes: modules/Quantum_Reframes.md
-      - Time Tempo: modules/Time_Tempo.md
   - Simulations:
-      - README: sim/README.md
       - Simulation Notes: sim/Simulation_Notes.md
   - Archive:
       - Core Concepts: archive/core_concepts.md

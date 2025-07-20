@@ -1,5 +1,5 @@
 
-# Charge and Field Alignment (SET-Aligned)
+# Charge and Field Alignment
 
 ## 🧠 Reframed Principle
 

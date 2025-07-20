@@ -1,5 +1,5 @@
 
-# Archive: Core Concepts (Deprecated Draft Form)
+# Core Concepts (Deprecated Draft Form)
 
 This file captures the original raw-form glossary definitions used during the drafting of Structured Emersion Theory.
 

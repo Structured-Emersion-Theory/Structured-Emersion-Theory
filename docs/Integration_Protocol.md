@@ -9,7 +9,12 @@ This file serves as the access layer for SET's GitHub Pages mirror. It lists all
 
 ---
 
-## 📘 Core Canon
+## Preface
+Reflections from the Edge: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Preface/Reflections_from_the_Edge/
+
+---
+
+## Core Docs
 Laws: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/law_candidates/
 
 Equations: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Equations/
@@ -24,27 +29,42 @@ Equation Candidates: https://structured-emersion-theory.github.io/Structured-Eme
 
 Integration Protocol: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Integration_Protocol/
 
+---
+
+## Modules
+
+Node Theory: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Node_Theory/
+
+Field Convergence & Collision: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Field_Collisions/
+
+Quantum Phenomena Reframed via SET: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Quantum_Reframes/
+
+Time as Emergent Tempo: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Time_Tempo/
+
+Consciousness as Participatory Node Activation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Consciousness_Field/
+---
+
+## Workbench
+
+Charge and Field Alignment: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Charge_Field_Alignment/
+
+Ripple and Cascade Definitions: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Ripple_Cascade/
 
 ---
 
-## 🧠 Philosophy & Origin
-- [Reflections_from_the_Edge.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Preface/Reflections_from_the_Edge.html)
+## Simulations
+
+Simulation Notes & Experimental Design: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/sim/Simulation_Notes/
 
 ---
 
-## 🧮 Modules
-<!-- Add confirmed module links here as they are added -->
+## Archive
 
+Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/core_concepts/
 
----
+Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
 
-## 🔍 Candidate & Workbench (Optional Sections)
-- _Add when stabilized or versioned_
-
----
-
-## 📁 Archive
-- _Optional link list if public-facing archive is maintained_
+Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
 
 ---
 

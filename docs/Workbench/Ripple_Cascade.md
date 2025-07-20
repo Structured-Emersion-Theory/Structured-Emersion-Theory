@@ -1,5 +1,5 @@
 
-# Ripple and Cascade Definitions (SET-Aligned)
+# Ripple and Cascade Definitions
 
 ## 🔁 Ripple
 
