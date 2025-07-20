@@ -11,19 +11,17 @@ Reflections from the Edge: https://structured-emersion-theory.github.io/Structur
 ---
 
 ## Core Docs
-Laws: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/law_candidates/
+Laws: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/core/Laws_of_Structure/
 
-Equations: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Equations/
+Glossary: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/core/Glossary/
 
-Glossary: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Glossary/
+Equations: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/core/Equations/
 
-Law Candidates: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/law_candidates/
+---
 
-Glossary Candidates: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Glossary_Candidates/
+## Candidates
 
-Equation Candidates: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/equation_candidates/
 
-Integration Protocol: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Integration_Protocol/
 
 ---
 

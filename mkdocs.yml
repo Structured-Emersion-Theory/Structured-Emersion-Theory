@@ -20,9 +20,9 @@ nav:
       - Glossary: core/Glossary.md
       - Equations: core/Equations.md
   - Candidates:
-      - Law Candidates: candadites_conflicts/law_candidates.md
-      - Glossary Candidates: candadites_conflicts/Glossary_Candidates.md
-      - Equation Candidates: candadites_conflicts/equation_candidates.md 
+      - Law Candidates: candidates_conflicts/law_candidates.md
+      - Glossary Candidates: candidates_conflicts/Glossary_Candidates.md
+      - Equation Candidates: candidates_conflicts/equation_candidates.md 
   - Modules:
       - Node Theory: modules/Node_Theory.md
       - Field Collisions: modules/Field_Collisions.md
