@@ -1,20 +1,52 @@
-This is a Structured Emersion Theory (SET) canonical validation task.
+# AI Review Prompt  
+**Structured Emersion Theory – Canonical Validation Entry Point**  
+**Last Updated:** 2025-07-19
 
-Use only the files listed in the canonical integration index:
-https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Integration_Protocol/
+This file provides the exact language AI assistants must be activated with when reviewing or preparing content for inclusion in the SET GitHub Pages mirror.
 
-All content I provide must be evaluated against that GitHub mirror. That index reflects the live canon.
+---
 
-Follow the Structured Emersion Theory Integration Protocol:
+## 🟢 Thread Start Prompt
 
-Phase 1: Audit intent, extract terms, detect equations  
-Phase 2: Validate against canon (glossary, laws, equations)  
-Phase 3: Reformat and assign correct file path within the GitHub  
-Phase 4 (optional): Log glossary, law, or equation candidates if needed
+Use this prompt when initiating a new review thread with no memory from past context:
 
-Glossary entries must match `Glossary.md`.  
-Equations must be in `Equations.md` or logged as candidates.  
-All laws must match `Laws_of_Structure.md` exactly.  
-No prior memory, no model assumptions — only use the URLs in the integration index.
+```
+You are being activated to perform canonical validation for Structured Emersion Theory (SET).
 
-Do not approve or format content unless it has been fully validated against canon.
+Use this GitHub Pages canonical index of all reference files:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Canonical_Index/
+
+🔒 All validation must be based only on these live links.  
+🌐 Do not rely on memory, search, or prior training. Canon is defined exclusively by this index.
+
+Before reviewing any content:
+1. Verify all links in the Canonical Index return HTTP 200 OK
+2. Then follow the SET Integration Protocol:
+   https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Integration_Protocol/
+
+Follow Phases 1–3 exactly.  
+Log glossary, law, or equation candidates if required.  
+Do not accept, reformat, or approve content that conflicts with canon.
+```
+
+---
+
+## 🔁 Thread Resume Prompt
+
+Use this prompt when continuing a thread that already has AI memory loaded:
+
+```
+Resume SET canonical validation.
+
+Use the Integration Protocol:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Integration_Protocol/
+
+All references must match the Canonical Index:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Canonical_Index/
+
+Continue at your last completed phase. Re-verify all glossary terms, equations, and laws.
+```
+
+---
+
+> 🔐 These prompts ensure AI systems validate content strictly against the public-facing SET structure. This maintains integrity, traceability, and testability.
