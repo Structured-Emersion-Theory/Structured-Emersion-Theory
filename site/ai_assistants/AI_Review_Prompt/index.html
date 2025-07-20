@@ -69,6 +69,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#ai-review-prompt" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -1094,6 +1099,21 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    AI Review Prompt
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -1106,6 +1126,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#thread-start-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      🟢 Thread Start Prompt
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#thread-resume-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔁 Thread Resume Prompt
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1136,6 +1193,34 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#thread-start-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      🟢 Thread Start Prompt
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#thread-resume-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔁 Thread Resume Prompt
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -1151,22 +1236,47 @@
 
 
 
-  <h1>AI Review Prompt</h1>
+<h1 id="ai-review-prompt">AI Review Prompt</h1>
+<p><strong>Structured Emersion Theory – Canonical Validation Entry Point</strong><br />
+<strong>Last Updated:</strong> 2025-07-19</p>
+<p>This file provides the exact language AI assistants must be activated with when reviewing or preparing content for inclusion in the SET GitHub Pages mirror.</p>
+<hr />
+<h2 id="thread-start-prompt">🟢 Thread Start Prompt</h2>
+<p>Use this prompt when initiating a new review thread with no memory from past context:</p>
+<pre><code>You are being activated to perform canonical validation for Structured Emersion Theory (SET).
 
-<p>This is a Structured Emersion Theory (SET) canonical validation task.</p>
-<p>Use only the files listed in the canonical integration index:
-https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Integration_Protocol/</p>
-<p>All content I provide must be evaluated against that GitHub mirror. That index reflects the live canon.</p>
-<p>Follow the Structured Emersion Theory Integration Protocol:</p>
-<p>Phase 1: Audit intent, extract terms, detect equations<br />
-Phase 2: Validate against canon (glossary, laws, equations)<br />
-Phase 3: Reformat and assign correct file path within the GitHub<br />
-Phase 4 (optional): Log glossary, law, or equation candidates if needed</p>
-<p>Glossary entries must match <code>Glossary.md</code>.<br />
-Equations must be in <code>Equations.md</code> or logged as candidates.<br />
-All laws must match <code>Laws_of_Structure.md</code> exactly.<br />
-No prior memory, no model assumptions — only use the URLs in the integration index.</p>
-<p>Do not approve or format content unless it has been fully validated against canon.</p>
+Use this GitHub Pages canonical index of all reference files:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Canonical_Index/
+
+🔒 All validation must be based only on these live links.  
+🌐 Do not rely on memory, search, or prior training. Canon is defined exclusively by this index.
+
+Before reviewing any content:
+1. Verify all links in the Canonical Index return HTTP 200 OK
+2. Then follow the SET Integration Protocol:
+   https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Integration_Protocol/
+
+Follow Phases 1–3 exactly.  
+Log glossary, law, or equation candidates if required.  
+Do not accept, reformat, or approve content that conflicts with canon.
+</code></pre>
+<hr />
+<h2 id="thread-resume-prompt">🔁 Thread Resume Prompt</h2>
+<p>Use this prompt when continuing a thread that already has AI memory loaded:</p>
+<pre><code>Resume SET canonical validation.
+
+Use the Integration Protocol:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Integration_Protocol/
+
+All references must match the Canonical Index:
+https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Canonical_Index/
+
+Continue at your last completed phase. Re-verify all glossary terms, equations, and laws.
+</code></pre>
+<hr />
+<blockquote>
+<p>🔐 These prompts ensure AI systems validate content strictly against the public-facing SET structure. This maintains integrity, traceability, and testability.</p>
+</blockquote>
 
 
 
