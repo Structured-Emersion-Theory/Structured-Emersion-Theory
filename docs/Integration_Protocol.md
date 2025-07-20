@@ -10,7 +10,7 @@ This file serves as the access layer for SET's GitHub Pages mirror. It lists all
 ---
 
 ## 📘 Core Canon
-- [Laws_of_Structure.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Laws_of_Structure.md)
+- [Laws_of_Structure.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Laws_of_Structure/)
 - [Equations.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Equations.md)
 - [Glossary.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/Glossary.md)
 - [GitHub_Integration_Protocol.md](https://structured-emersion-theory.github.io/Structured-Emersion-Theory/docs/GitHub_Integration_Protocol.md)
