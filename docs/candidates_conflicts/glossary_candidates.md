@@ -1,4 +1,4 @@
-# Glossary Candidates & Refinements Log  
+# Glossary Candidates & Refinements Log    
 This file tracks all proposed glossary additions, refinements, or replacements. Each entry must include a clear definition, rationale, and structural relevance to existing SET canon.
 
 ---
