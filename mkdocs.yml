@@ -7,7 +7,6 @@ theme:
     primary: deep purple
     accent: indigo
   features:
-    - navigation.tabs
     - navigation.top
 
 nav:
