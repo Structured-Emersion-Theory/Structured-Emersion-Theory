@@ -13,6 +13,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Preface:
+      - Reflections from the Edge: Preface/Reflections_from_the_Edge.md
   - Core Docs:
       - Laws of Structure: Laws_of_Structure.md
       - Glossary: Glossary.md
@@ -21,12 +23,6 @@ nav:
       - Glossary Candidates: Glossary_Candidates.md
       - Equation Candidates: equation_candidates.md
       - Integration Protocol: Integration_Protocol.md
-  - Archive:
-      - Core Concepts: archive/core_concepts.md
-      - Equations (Meta): archive/equations.md
-      - Meta Reflections: archive/meta_reflections.md
-  - Preface:
-      - Reflections from the Edge: Preface/Reflections_from_the_Edge.md
   - Workbench:
       - Charge Field Alignment: Workbench/Charge_Field_Alignment.md
       - Ripple Cascade: Workbench/Ripple_Cascade.md
@@ -40,3 +36,7 @@ nav:
   - Simulations:
       - README: sim/README.md
       - Simulation Notes: sim/Simulation_Notes.md
+  - Archive:
+      - Core Concepts: archive/core_concepts.md
+      - Equations (Meta): archive/equations.md
+      - Meta Reflections: archive/meta_reflections.md
