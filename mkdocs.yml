@@ -13,6 +13,7 @@ theme:
 nav:
   - Home: index.md
   - Core Docs:
+      - Laws of Structure: modules/Laws_of_Structure.md
       - Glossary: Glossary.md
       - Equations: Equations.md
       - Law Candidates: law_candidates.md
@@ -32,7 +33,6 @@ nav:
       - README: modules/README.md
       - Consciousness Field: modules/Consciousness_Field.md
       - Field Collisions: modules/Field_Collisions.md
-      - Laws of Structure: modules/Laws_of_Structure.md
       - Node Theory: modules/Node_Theory.md
       - Quantum Reframes: modules/Quantum_Reframes.md
       - Time Tempo: modules/Time_Tempo.md
