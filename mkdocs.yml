@@ -16,12 +16,13 @@ nav:
   - Preface:
       - Reflections from the Edge: Preface/Reflections_from_the_Edge.md
   - Core Docs:
-      - Laws of Structure: Laws_of_Structure.md
-      - Glossary: Glossary.md
-      - Equations: Equations.md
-      - Law Candidates: law_candidates.md
-      - Glossary Candidates: Glossary_Candidates.md
-      - Equation Candidates: equation_candidates.md
+      - Laws of Structure: core/Laws_of_Structure.md
+      - Glossary: core/Glossary.md
+      - Equations: core/Equations.md
+  - Candidates:
+      - Law Candidates: candadites_conflicts/law_candidates.md
+      - Glossary Candidates: candadites_conflicts/Glossary_Candidates.md
+      - Equation Candidates: candadites_conflicts/equation_candidates.md 
   - Modules:
       - Node Theory: modules/Node_Theory.md
       - Field Collisions: modules/Field_Collisions.md
@@ -38,4 +39,6 @@ nav:
       - Equations (Meta): archive/equations.md
       - Meta Reflections: archive/meta_reflections.md
   - For AI Assistants:
-      - Integration Protocol: Integration_Protocol.md
+      - Integration Protocol: ai_assistants/Integration_Protocol.md
+      - Canonical Index: ai_assistants/Canonical_Index.md
+      - AI Review Prompt: ai_assistants/AI_Review_Prompt.md

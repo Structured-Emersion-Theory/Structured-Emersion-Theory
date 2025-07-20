@@ -1,8 +1,4 @@
-# Integration Protocol
-
-
-
-## Canonical Index of Live Markdown Files
+# Canonical Index of Live Markdown Files
 
 This file serves as the access layer for SET's GitHub Pages mirror. It lists all current canonical `.md` files publicly accessible at:
 > https://structured-emersion-theory.github.io/Structured-Emersion-Theory/
