@@ -21,7 +21,11 @@ Equations: https://structured-emersion-theory.github.io/Structured-Emersion-Theo
 
 ## Candidates
 
+Law Candidates & Refinements Log: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/candidates_conflicts/law_candidates/
 
+Glossary Candidates & Refinements Log: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/candidates_conflicts/Glossary_Candidates/
+
+Equation Candidates & Refinements Log: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/candidates_conflicts/equation_candidates/
 
 ---
 
@@ -61,6 +65,16 @@ Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github
 Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
 
 Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
+
+---
+
+## For AI Assistants
+
+Integration Protocol: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Integration_Protocol/
+
+Canonical Index of Live Markdown Files: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/Canonical_Index/
+
+AI Review Prompt: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/ai_assistants/AI_Review_Prompt/
 
 ---
 
