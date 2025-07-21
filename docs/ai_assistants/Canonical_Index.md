@@ -49,6 +49,10 @@ Charge and Field Alignment: https://structured-emersion-theory.github.io/Structu
 
 Ripple and Cascade Definitions: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Ripple_Cascade/
 
+Node Class Differentiation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Node_Class_Differentiation/
+
+Tunneling and Tempo Compression: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Tunneling_Tempo_Compression/
+
 ---
 
 ## Simulations
@@ -58,10 +62,6 @@ Simulation Notes & Experimental Design: https://structured-emersion-theory.githu
 ---
 
 ## Archive
-
-Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/core_concepts/
-
-Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
 
 Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
 
