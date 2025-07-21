@@ -1,27 +1,28 @@
 
-# Node Theory
+# Node Theory (Canonical Core)
 
-A node is not a location. It is a unit of *relational potential*. It does not exist spatially or temporally until activated. Nodes activate when engaged by other nodes—this interaction births fields, structure, and all emergent phenomena.
+A node is not a location. It is a unit of *relational potential*. It does not exist spatially or temporally until activated. Nodes activate through interaction with other nodes—this interaction gives rise to fields, structure, and all emergent phenomena.
 
-## 🧠 Working Concepts
+---
 
-- Nodes are *pure potential*—invisible and inactive until triggered.
-- Activation = emergence. Until then, the node is in a dormant, unmeasurable state.
-- There may be different classes of nodes:
-  - Foundational (existence-forming)
-  - Temporal (tempo-controlling)
-  - Conscious (capable of recursive activation)
-- Nested node chains may lead to emergence of new laws or fields.
+## Core Concepts
 
-## 🎯 Research Goals
+- Nodes are *pure potential*—invisible and inactive until structurally engaged.
+- Activation = emergence. Until activation, the node remains dormant and unmeasurable.
+- Nodes follow the principles set by:
+  - *(Law 2: Nodes as Relational Potentials)*
+  - *(Law 10: Contact Ignition)*
+- Node behavior is governed by the activation equation:  
+  `Aᵢ(t) = μ · φ(x, t) · e^(–γt)`
 
-- Define how many nodes are required to produce measurable field tension.
-- Determine whether nodes decay, replicate, or merge.
-- Investigate if nodes have minimum thresholds for activation—like quantum gates.
+---
 
-## 🌀 Visualization
+## Research Objectives
 
-Imagine a blank piano. Each key is a node.
+- Quantify how many activated nodes are required to produce measurable field tension.
+- Investigate whether nodes can decay, replicate, or merge under specific field conditions.
+- Determine whether a threshold mechanism governs activation (e.g., quantum-like gates).
 
-- Nothing happens until a note is struck (activation).
-- When struck, resonance begins—and the piano becomes a field.
+---
+
+*Note: All experimental and speculative content has been transferred to the appropriate SET Overflow candidate files. This module contains only concepts accepted within the canonical framework.*

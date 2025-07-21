@@ -1,26 +1,37 @@
 
-# Field Convergence & Collision
+# Field Convergence & Collision (Canonical Core)
 
 When two or more relational fields interact, they produce:
 
 - **Interference zones** (constructive or destructive)
-- **Temporary null zones** (entropy spikes or data collapse)
-- **Emergent third fields** (new behaviors)
+- **Temporary null zones** (coherence disruption)
+- **Emergent third fields** (new behavior patterns)
 
-## 🧠 Theories Under Construction
+---
 
-- Some field overlaps may spawn self-stabilizing emergent structures.
-- Black holes may represent collapse into an “overlap field” — a field without structure but containing all prior tension.
-- Field dominance may depend on:
-  - Node density
-  - Activation tempo
-  - Stability of prior interactions
+## Canonical Principles
 
-## 🌀 Visualization
+- Field interactions are governed by:
+  - Ripple interference (`I(x, t) = Σ [Rᵢ · Rⱼ]`)
+  - Coherence persistence (`dC/dt = –λ_c · C`)
+  - Pressure gradients and flicker thresholds
 
-- Two tuning forks vibrating in phase create resonance.
-- Two dissonant frequencies cause chaos, silence, or redirection.
+- The nature of the collision depends on:
+  - Node density in overlapping regions
+  - Activation tempo differences
+  - Pre-existing structural resistance
 
-## 🛠️ Goal
+- These outcomes define whether structure fuses, destabilizes, or collapses.
 
-Develop a field interaction map or “collision syntax” that can be used in simulation or predictive modeling.
+---
+
+## Research Objectives
+
+- Characterize boundary conditions that govern coherence collapse vs field fusion
+- Model the geometry of destructive vs constructive interference in 2+ field systems
+- Extend ripple-based dynamics to field-domain level convergence
+
+---
+
+*Note: Black hole analogs and collision syntax frameworks have been moved to overflow candidate and simulation planning files, respectively.*
+
