@@ -31,16 +31,6 @@ Equation Candidates & Refinements Log: https://structured-emersion-theory.github
 
 ## Modules
 
-Node Theory: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Node_Theory/
-
-Field Convergence & Collision: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Field_Collisions/
-
-Quantum Phenomena Reframed via SET: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Quantum_Reframes/
-
-Time as Emergent Tempo: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Time_Tempo
-
-Consciousness as Participatory Node Activation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Consciousness_Field/
-
 
 ---
 
@@ -60,11 +50,6 @@ Simulation Notes & Experimental Design: https://structured-emersion-theory.githu
 
 ## Archive
 
-Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/core_concepts/
-
-Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
-
-Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
 
 ---
 

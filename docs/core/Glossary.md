@@ -141,3 +141,15 @@ Recursive structural activation that simulates field behavior internally. Arises
 Related: Law 15 – Conscious Emergence, See also: Consciousness_Field.md
 
 ---
+
+**Flicker Readiness**  
+The structural state of a node being aligned with multiple ripple pathways. Readiness does not imply indecision, but rather a simultaneous match to more than one potential activation vector.  
+Related: Law 6 – Flicker Coherence, Superposition (see: Quantum_Reframes.md)
+
+---
+
+**Shared Tempo**  
+A coherence condition in which multiple nodes or structures maintain synchronized flicker rhythms. Enables nonlocal resonance effects such as entanglement via unified temporal alignment.  
+Related: Law 6 – Flicker Coherence, Tempo, Entanglement (see: Quantum_Reframes.md)
+
+---
