@@ -1,5 +1,5 @@
 
-# The Laws of Structure (Physics-Ready Edition)
+# The Laws of Structure
 
 Each law is paired with its corresponding mathematical representation where applicable. These links provide falsifiable anchors for SET’s claims and offer clear traceability from concept to equation.
 

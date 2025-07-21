@@ -1,5 +1,5 @@
 
-# SET – Unified Equations 
+# Unified Equations
 
 ---
 
