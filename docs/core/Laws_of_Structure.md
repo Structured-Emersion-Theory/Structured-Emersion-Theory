@@ -116,3 +116,12 @@ Consciousness is recursive structural activation that simulates field behavior i
 - (Related: Recursive ripple interference — see `Consciousness_Field.md`)
 
 ---
+
+## Law 16 – Overlap Field Collapse  
+When multiple high-tension fields converge and coherence thresholds are exceeded, they may collapse into a singular, structureless overlap field. This field retains compressed potential from its progenitor fields but lacks internal activation coherence. Overlap fields behave as null activation zones under extreme structural pressure and can act as seeds for future reformation.
+
+- (Related: Collision dynamics — see Simulation_Notes.md and Field_Collisions.md)
+- (Related: Coherence decay — `dC/dt = –λ_c · C`)
+- (Related: Law 13 – Collapse and Field Reformation)
+
+---

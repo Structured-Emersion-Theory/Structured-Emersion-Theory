@@ -32,7 +32,7 @@
 ## Time and Tempo
 
 - `T_local = T₀ / (1 + R)`  
-  Local tempo slows under high structural resistance. *(Law 4, Law 7)*
+  Local tempo is inversely proportional to structural resistance. As resistance increases, tempo slows. *(Law 4, Law 7)*
 
 - `dC/dt = –λ_c · C`  
   Coherence decay modeled as exponential function. *(Law 13, Law 12)*
