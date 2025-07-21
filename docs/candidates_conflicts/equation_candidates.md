@@ -1,8 +1,7 @@
 # Equation Candidates & Refinements Log  
 This file tracks proposed equations, refinements, or replacements not yet approved for inclusion in `Equations.md`. Each entry must define the equation, its meaning, connected laws, and current review status.
 
----
-
+——-
 ### Entry Template
 
 ### Entry ID: YYYY-MM-DD-ENN  
@@ -26,7 +25,7 @@ This file tracks proposed equations, refinements, or replacements not yet approv
 **Status:** ⏳ Pending Review  
 **Submitted:** YYYY-MM-DD
 
----
+——-
 
 ### Entry ID: 2025-07-19-E01  
 **Title:** Ripple Interference Matrix  
@@ -49,4 +48,4 @@ Interference strength resulting from overlapping ripple vectors at a given point
 **Status:** ⏳ Pending Review  
 **Submitted:** 2025-07-19
 
----
+——-
