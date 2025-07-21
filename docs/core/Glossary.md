@@ -16,15 +16,15 @@ Related: Law 2 – Nodes as Relational Potentials, Law 10 – Contact Ignition
 
 ---
 
-**Field**  
-A temporary activation pattern among nodes. Fields form when multiple node activations create tension networks. They are not fundamental—they are emergent and collapsible.  
-Related: Law 3 – Fields as Activated Structure
-
----
-
 **Activation**  
 The state change of a node from potential to active due to structural contact. All emergence, ripple, or mass begins with activation.  
 Related: Equation – Aᵢ(t) = μ · φ(x, t) · e^(–γt)
+
+---
+
+**Field**  
+A temporary activation pattern among nodes. Fields form when multiple node activations create tension networks. They are not fundamental—they are emergent and collapsible.  
+Related: Law 3 – Fields as Activated Structure
 
 ---
 
@@ -34,9 +34,27 @@ Related: Law 5 – Ripple Propagation, Equations – R(x, t), Rᵢ(t), R_net
 
 ---
 
+**Structural Resistance**  
+The measure of how much effort is required for a ripple to maintain coherence across a region. Resistance varies based on structure density and interference history.  
+Related: Law 7 – Structural Resistance and Redshift, Equation – F_g = –∇P_s
+
+---
+
 **Flicker**  
 A localized, rhythmic node oscillation caused by stabilized interference. Flickers are the basis of coherent emergence (e.g., mass, time).  
 Related: Law 6 – Flicker Coherence
+
+---
+
+**Flicker Pressure**  
+The total structural activation force exerted on a node by the surrounding lattice. It represents the intensity of coherent ripple energy acting to stabilize or destabilize local flicker.  
+Related: Equation – E = Fₚ – Fᵣ, Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field
+
+---
+
+**Recognition Limit**  
+The coherence threshold a node must maintain to persist as mass. If flicker pressure exceeds this limit, the surplus manifests as emergent energy. If it falls short, activation fails or coherence collapses.  
+Related: Equation – E = Fₚ – Fᵣ, Law 6 – Flicker Coherence, Law 13 – Collapse and Field Reformation
 
 ---
 
@@ -52,15 +70,15 @@ Related: Law 4 – Time as Local Tempo, Equation – T_local = T₀ / (1 + R)
 
 ---
 
-**Collapse**  
-A failure of coherence due to overloaded structural tension. Collapse may result in a null zone (black hole), field reformation, or radiation leak.  
-Related: Law 13 – Collapse and Field Reformation
+**Structural Thickening**  
+An increase in local resistance due to mass or field saturation. Thickening stabilizes flickers, slows tempo, and alters the behavior of nearby structures.  
+Related: Law 8 – Structural Thickening
 
 ---
 
-**Structural Resistance**  
-The measure of how much effort is required for a ripple to maintain coherence across a region. Resistance varies based on structure density and interference history.  
-Related: Law 7 – Structural Resistance and Redshift, Equation – F_g = –∇P_s
+**Collapse**  
+A failure of coherence due to overloaded structural tension. Collapse may result in a null zone (black hole), field reformation, or radiation leak.  
+Related: Law 13 – Collapse and Field Reformation
 
 ---
 
@@ -70,9 +88,9 @@ Related: Law 9 – Mass as Containment Field, Equation – m = dP/da
 
 ---
 
-**Structural Thickening**  
-An increase in local resistance due to mass or field saturation. Thickening stabilizes flickers, slows tempo, and alters the behavior of nearby structures.  
-Related: Law 8 – Structural Thickening
+**Structural Trace**  
+The imprint left by prior flicker or ripple events through structure. A measurable history of coherence paths altered by resistance.  
+Related: Law 9 – Ripple Path, Coherence, Pressure
 
 ---
 
@@ -94,9 +112,15 @@ Related: Law 14 – Equilibrium Drive
 
 ---
 
-**Consciousness**  
-Recursive structural activation that simulates field behavior internally. Arises when a structure mirrors the dynamics of its field.  
-Related: Law 15 – Conscious Emergence, See also: Consciousness_Field.md
+**Perceived Irreversibility**  
+The appearance of a forward arrow of time caused by loss of coherence in open systems. As flicker fidelity degrades, future states become less predictable.  
+Related: Law 12 – Entropy Gradient, Entropy, Decay
+
+---
+
+**Scale Invariance**  
+The property that SET behaviors persist across magnitude — from quantum to cosmic. Resistance, ripple, and emergence follow the same governing logic.  
+Related: Law 1 – Structural Recursion, Law 7 – Fractal Equilibrium, Equation – Ripple = Resistance × Activation
 
 ---
 
@@ -112,18 +136,8 @@ Related: Law 10 – Containment, Node, Echo
 
 ---
 
-**Structural Trace**  
-The imprint left by prior flicker or ripple events through structure. A measurable history of coherence paths altered by resistance.  
-Related: Law 9 – Ripple Path, Coherence, Pressure
+**Consciousness**  
+Recursive structural activation that simulates field behavior internally. Arises when a structure mirrors the dynamics of its field.  
+Related: Law 15 – Conscious Emergence, See also: Consciousness_Field.md
 
 ---
-
-**Perceived Irreversibility**  
-The appearance of a forward arrow of time caused by loss of coherence in open systems. As flicker fidelity degrades, future states become less predictable.  
-Related: Law 12 – Entropy Gradient, Entropy, Decay
-
----
-
-**Scale Invariance**  
-The property that SET behaviors persist across magnitude — from quantum to cosmic. Resistance, ripple, and emergence follow the same governing logic.  
-Related: Law 1 – Structural Recursion, Law 7 – Fractal Equilibrium, Equation – Ripple = Resistance × Activation
