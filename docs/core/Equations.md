@@ -54,6 +54,14 @@
 
 ## Energy Forms
 
+---
+
+## Energy and Flicker Pressure
+
+- `E = Fₚ – Fᵣ`  
+  Emergent energy is the difference between flicker pressure and the structural recognition limit. When flicker pressure exceeds this threshold, surplus energy is released. When they are equal, mass is stable.  
+  *(Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 13 – Collapse and Field Reformation)*
+
 - `E_k = (1/2) · m · v²`  
   Ripple kinetic energy. *(Law 6, Law 9)*
 
