@@ -134,11 +134,6 @@ Related: Law 6 – Flicker Coherence, Ripple, Tempo
 Self-reinforcing flicker patterns in a contained structure. Enables memory, oscillation, and signal continuity within closed systems.  
 Related: Law 10 – Containment, Node, Echo
 
----
-
-**Consciousness**  
-Recursive structural activation that simulates field behavior internally. Arises when a structure mirrors the dynamics of its field.  
-Related: Law 15 – Conscious Emergence, See also: Consciousness_Field.md
 
 ---
 
