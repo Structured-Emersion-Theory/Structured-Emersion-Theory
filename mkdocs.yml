@@ -32,7 +32,7 @@ nav:
   - Workbench:
       - Charge Field Alignment: Workbench/Charge_Field_Alignment.md
       - Ripple Cascade: Workbench/Ripple_Cascade.md
-      - Node Class: Workbench/Node_Class_Differentation.md
+      - Node Class: Workbench/Node_Class_Differentiation.md
       - Tunneling: Workbench/Tunneling_Tempo_Compression.md
   - Simulations:
       - Simulation Notes: sim/Simulation_Notes.md

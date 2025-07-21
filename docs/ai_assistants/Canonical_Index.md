@@ -31,6 +31,15 @@ Equation Candidates & Refinements Log: https://structured-emersion-theory.github
 
 ## Modules
 
+Node Theory: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Node_Theory/
+
+Field Convergence & Collision: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Field_Collisions/
+
+Time, Tempo, and Sequence: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/time_tempo_sequence/
+
+Energy from Flicker Pressure: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/energy_from_flicker_pressure/
+
+Quantum Field Rewrites: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/quantum_field_rewrites/
 
 ---
 
@@ -50,6 +59,11 @@ Simulation Notes & Experimental Design: https://structured-emersion-theory.githu
 
 ## Archive
 
+Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/core_concepts/
+
+Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
+
+Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
 
 ---
 
