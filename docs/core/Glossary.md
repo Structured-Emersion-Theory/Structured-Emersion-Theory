@@ -1,5 +1,5 @@
 
-# Glossary of Core Terms – Structured Emersion Theory (SET)
+# Glossary of Core Terms
 
 This glossary defines the primary concepts and terms used in the SET framework. Key terms are linked to equations or laws where applicable to aid in formal review.
 
