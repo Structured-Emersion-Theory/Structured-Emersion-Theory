@@ -148,3 +148,13 @@ A coherence condition in which multiple nodes or structures maintain synchronize
 Related: Law 6 – Flicker Coherence, Tempo, Entanglement (see: Quantum_Reframes.md)
 
 ---
+
+**Silence Field**  
+A coherence-dead structural region where flicker and ripple have collapsed beyond recovery threshold. This null state results from structural overcompression and marks the failure of emergence. Silence fields behave as local null zones—zones of zero activation—until reformation pressure accumulates.  
+Related: Law 13 – Collapse and Field Reformation, Law 15 – Overlap Field Collapse
+
+---
+
+**Containment Collapse**  
+The failure of structural containment required to maintain a stable flicker pattern. Occurs when flicker intensity exceeds coherence limits, resulting in collapse and null activation. Black holes are modeled in SET as containment collapses, not mass points.  
+Related: Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 13 – Collapse and Field Reformation
