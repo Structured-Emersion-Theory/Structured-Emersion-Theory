@@ -88,3 +88,55 @@ A distortion of local tempo caused by pressure or resistance in the structure. I
 Redefines general relativity’s explanation of time dilation. In SET, changes in flicker rate cause differential tempo, not warping of a temporal dimension.
 
 ---
+
+### Temporal Coherence
+
+**Source:** `temporal_coherence_and_time.md`  
+**Status:** New Term  
+
+**Definition:**  
+The alignment of local flicker rhythms across nodes or regions of structure. Temporal coherence indicates structural synchronization in time-like behavior without requiring a global clock.
+
+**Notes:**  
+This term captures the SET view that time is a distributed rhythm, not a dimension. Coherence governs resonance, alignment, and causality in localized fields.
+
+---
+
+### Resonant Flicker
+
+**Source:** `temporal_coherence_and_time.md`  
+**Status:** New Term (Renamed from “Flicker Resonance”)  
+
+**Definition:**  
+Self-sustaining flicker patterns within a closed structure that reinforce over time, enabling memory and internal continuity.
+
+**Notes:**  
+Used to explain how perception and memory emerge from flicker-based resonance, particularly in contained systems like consciousness fields.
+
+---
+
+### Structural Trace
+
+**Source:** `temporal_coherence_and_time.md`  
+**Status:** New Term (Renamed from “Ripple Path”)  
+
+**Definition:**  
+The visible or calculable imprint left by past node interactions within a structure. A record of flicker progression through space and resistance.
+
+**Notes:**  
+Replaces the metaphor-heavy “ripple path” with a more precise structural mapping. Suggests time is the afterimage of pressure-altered structure.
+
+---
+
+### Perceived Irreversibility
+
+**Source:** `temporal_coherence_and_time.md`  
+**Status:** New Framing  
+
+**Definition:**  
+The appearance of a forward-moving timeline caused by increasing entropy and the degradation of flicker coherence.
+
+**Notes:**  
+SET reframes entropy not as a global arrow of time, but as a local loss of structural fidelity. Time does not move — structure decays.
+
+---
