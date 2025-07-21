@@ -1,7 +1,5 @@
 
-# SET – Unified Equations (Physics-Ready Version)
-
-This version retains only physics-compatible, falsifiable equations and removes symbolic or logic-gate statements that do not meet mathematical rigor. All equations are aligned with the Laws of Structure and the physical interpretations of Structured Emersion Theory.
+# SET – Unified Equations 
 
 ---
 
