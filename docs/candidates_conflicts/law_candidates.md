@@ -1,7 +1,7 @@
 # Law Candidates & Refinements Log  
 This file tracks proposed laws, structural principles, or revisions to existing Laws of Structure. All entries must be testable, nonredundant, and structurally coherent within the SET framework.
 
-—
+——-
 
 ### Entry Template
 
@@ -27,7 +27,7 @@ This file tracks proposed laws, structural principles, or revisions to existing 
 **Status:** ⏳ Pending Review  
 **Submitted:** YYYY-MM-DD
 
-—
+——-
 
 ## Law Candidate: Differentiated Node Classes
 
@@ -54,7 +54,7 @@ While current Laws treat all nodes as generic units of relational potential, evi
 ### Status:
 🧪 **Experimental** — Proposed for future simulation, not currently testable in field data.
 
-—
+——-
 
 ## Law Candidate: Node Replication and Merging Dynamics
 
@@ -82,7 +82,7 @@ Current laws treat nodes as atomic and stable. However, theoretical modeling of 
 ### Status:
 🧪 **Exploratory Candidate** — Requires conceptual and mathematical development; currently under theoretical observation.
 
-—
+——-
 
 ## Law Candidate: Overlap Field Collapse
 
@@ -108,4 +108,4 @@ Standard SET collapse is framed as local coherence decay. This law formalizes a 
 ### Status:
 🧪 **Theoretical Candidate** — Suggested for simulation modeling of black hole analogs and field fusion dynamics.
 
-—
+——-
