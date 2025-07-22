@@ -35,12 +35,15 @@ Node Theory: https://structured-emersion-theory.github.io/Structured-Emersion-Th
 
 Field Convergence & Collision: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Field_Collisions/
 
-Quantum Phenomena Reframed via SET: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Quantum_Reframes/
+Time, Tempo, and Sequence: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/time_tempo_sequence/
 
-Time as Emergent Tempo: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Time_Tempo
+Energy from Flicker Pressure: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/energy_from_flicker_pressure/
 
-Consciousness as Participatory Node Activation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Consciousness_Field/
+Quantum Field Rewrites: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/quantum_field_rewrites/
 
+Black Holes and Collapse: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Black_Holes_and_Collapse/
+
+Black Holes and Galactic Formation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Black_Holes_and_Galaxies/
 
 ---
 
@@ -49,6 +52,10 @@ Consciousness as Participatory Node Activation: https://structured-emersion-theo
 Charge and Field Alignment: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Charge_Field_Alignment/
 
 Ripple and Cascade Definitions: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Ripple_Cascade/
+
+Node Class Differentiation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Node_Class_Differentiation/
+
+Tunneling and Tempo Compression: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/Workbench/Tunneling_Tempo_Compression/
 
 ---
 
@@ -59,10 +66,6 @@ Simulation Notes & Experimental Design: https://structured-emersion-theory.githu
 ---
 
 ## Archive
-
-Core Concepts (Deprecated Draft Form): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/core_concepts/
-
-Equations and Formalizations (Historical Draft): https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/equations/
 
 Meta Reflections and Philosophical Notes: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/archive/meta_reflections/
 

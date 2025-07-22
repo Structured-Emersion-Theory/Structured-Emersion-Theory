@@ -1,56 +1,39 @@
+---
+title: Ripple and Cascade Definitions
+type: workbench
+status: conceptual
+---
 
 # Ripple and Cascade Definitions
 
-## 🔁 Ripple
-
-A **ripple** is a single instance of structural activation—  
-the flicker from one node to its neighbor across the lattice.
-
-It is the **minimum unit of causal propagation** in SET.
-
-### Characteristics:
-- **Local** — confined to adjacent node interaction
-- **Discrete** — quantized in timing and space
-- **Directional** — flows across structural potential
-- **Tempo-bound** — constrained by local activation rhythm
+This file refines the conceptual boundary between ripple propagation and activation cascades within SET. It is not a formal glossary or mathematical structure yet.
 
 ---
 
-## 🌊 Cascade
+## Hypothesis
 
-A **cascade** is a sustained, coherent chain of ripple propagation  
-through multiple nodes in rhythm.
+Although both ripple and cascade behaviors involve energy transfer through structure, they differ in activation logic and propagation shape.
 
-It is an **emergent structure** dependent on coherence and tempo.
+- **Ripple** — a coherent, wave-like transmission of activation across adjacent nodes, typically governed by resistance and coherence thresholds.
+- **Cascade** — a threshold-triggered activation chain where one node’s flicker initiates multi-node activation beyond immediate adjacency.
 
-### Characteristics:
-- **Emergent** — not constructed, but stabilized by rhythm
-- **Coherence-bound** — can fail in high entropy zones
-- **Field-forming** — can generate macrofield behavior
-- **Sensitive to structure** — influenced by pressure, density, alignment
-
----
-
-## 🧠 Entropic Collapse
-
-Cascades may fail if:
-- Local resistance exceeds ripple coherence
-- Structural pressure introduces interference
-- Tempo misalignment disrupts rhythm
-
-This transition from cascade to noise is a key expression of **entropy** in SET.
+This distinction matters for modeling:
+- Collapse behaviors  
+- Field breakdown  
+- Long-range emergent order
 
 ---
 
-## 📘 Glossary Additions (Proposed)
+## Canonical Dependencies
 
-- **Cascade**: A coherent ripple chain across multiple nodes. Represents emergent structural propagation and field formation.
+- Law 5 – Ripple Propagation  
+- Law 6 – Flicker Coherence  
+- Law 13 – Collapse and Field Reformation
 
 ---
 
-## 📚 Related Laws of Structure
+## Notes
 
-- **Law 3** – Fields as Activated Structure  
-- **Law 5** – Ripple Propagation  
-- **Law 6** – Flicker Coherence  
-- **Law 12** – Imperfection and Emergence
+Future symbolic modeling may formalize ripple via differential equations and cascade via graph-based topology. This file will serve as a staging area for such definitions once math scaffolding is stable.
+
+---

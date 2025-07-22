@@ -1,78 +1,91 @@
-
-# SET – Unified Equations
-
-All known equations across SET, annotated only with laws confirmed in `Laws_of_Structure.md`.
+# Unified Equations
 
 ---
 
 ## Node Activation & Behavior
 
-- `Aᵢ(t) = μ · φ(x, t) · e^(–γt)` — Node activation from local field potential φ, decay rate γ, and structural coefficient μ. *(Law 2: Nodes as Relational Potentials, Law 10: Contact Ignition)*  
-- `If Σ R_in ≥ A_threshold and C ≥ C_min → Flicker` — Nodes activate (flicker) when ripple strength exceeds structural and coherence thresholds. *(Law 6: Flicker Coherence)*
+- `Aᵢ(t) = μ · φ(x, t) · e^(–γt)`  
+  Node activation from local field φ with decay rate γ and coupling constant μ. *(Law 2, Law 10)*
+
+- `Θ(Σ R_in – A_threshold) · Θ(C – C_min) = 1`  
+  Node activation condition using ripple input and coherence threshold. *(Law 6)*
 
 ---
 
 ## Ripple Dynamics
 
-- `R(x, t) = α · (∂A/∂t) · (C(x, t) / S(x))` — Ripple amplitude depends on activation rate, coherence, and resistance. *(Law 5: Ripple Propagation, Law 3: Fields as Activated Structure)*  
-- `Rᵢ(t) = Rᵢ(t–1) · e^(–λ · Δt)` — Ripple decays over time unless reinforced. *(Law 5: Ripple Propagation)*  
-- `R_net = Σ [Rⱼ · cos(Δθⱼ)]` — Net ripple from multiple sources based on alignment. *(Law 5)*  
-- `I(x, t) = Σ [Rᵢ(x, t) · Rⱼ(x, t)]` — Ripple interference at a point in space-time. *(Law 5, Law 3)*  
-- `If Σ Rᵢ(t) ≥ F_macro within Δτ_c → Macrofield Emergence` — Macrofield forms when ripple coherence exceeds threshold. *(Law 1: Existence as Emergence)*
+- `R(x, t) = α · (∂A/∂t) · (C(x, t) / S(x))`  
+  Ripple amplitude as function of activation rate, coherence, and resistance. *(Law 5, Law 3)*
+
+- `Rᵢ(t) = Rᵢ(t–1) · e^(–λ · Δt)`  
+  Ripple decay over time. *(Law 5)*
+
+- `R_net = Σ [Rⱼ · cos(Δθⱼ)]`  
+  Net ripple strength from angular summation. *(Law 5)*
+
+- `I(x, t) = Σ [Rᵢ(x, t) · Rⱼ(x, t)]`  
+  Interference at a point in space-time. *(Law 3, Law 5)*
 
 ---
 
-## Tempo & Time
+## Time
 
-- `T_local = T₀ / (1 + R)` — Local tempo as a function of structural resistance. *(Law 4: Time as Local Tempo, Law 7: Structural Resistance)*  
-- `∂C/∂t < 0 and C → 0` — Collapse occurs as coherence decays. *(Law 13: Collapse and Field Reformation, Law 12: Imperfection and Emergence)*
+- `τ_local = τ₀ / (1 + R)`  
+  Local time is inversely proportional to structural resistance. As resistance increases, time slows. *(Law 4, Law 7)*
 
----
-
-## Mass & Structural Containment
-
-- `M = ∫₀^d κ · C_f(x) dx` — Mass as integrated coherence resistance over distance. *(Law 9: Mass as Containment Field, Law 6: Flicker Coherence)*  
-- `m_f = F_flicker / a_structure` — Flicker-based mass from force over area. *(Law 9)*
+- `dC/dt = –λ_c · C`  
+  Coherence decay modeled as exponential function. *(Law 13, Law 12)*
 
 ---
 
-## Energy Forms
+## Mass and Gravity
 
-- `E_k = (1/2) · m_f · v_f²` — Kinetic energy from ripple velocity across structure. *(Law 9, Law 6)*  
-- `E_p = P · d_s` — Potential energy as pressure over structural distance. *(Law 3)*  
-- `𝓡(x, t) = Σ [Aᵢ · sin(ωᵢ t + θᵢ) · Cᵢ]` — Resonant fields from coherent node activation. *(Law 6)*
+- `m = dP/da`  
+  Structural mass as pressure resistance to acceleration. *(Law 9)*
 
----
+- `F_g = –∇P_s`  
+  Gravitational force as pressure gradient. *(Law 9, Law 7)*
 
-## Collapse & Field Reformation
-
-- `If ρ(x, t) ≥ ρ_c and C(x, t) < C_min → Collapse` — Collapse triggered when density exceeds coherence support. *(Law 13: Collapse and Field Reformation)*  
-- `dE_residual/dt = –λ · E_residual` — Residual energy loss over time. *(Law 13, Law 7)*  
-- `Ψ(x, t) = E_residual · κ(x, t)` — Bounce threshold from residual energy × resistance. *(Law 13)*  
-- `If Ψ ≥ Ψ_min → Reformation` — Structural reformation triggers when bounce threshold is crossed. *(Law 13)*
+- `U_g = –∫ P_s(x) dx`  
+  Gravitational potential from structural pressure. *(Law 7)*
 
 ---
 
-## Consciousness & Thresholds
+## Energy and Activation Pressure
 
-- `C_r = n · η · γ ≥ Θ_c` — Consciousness emerges when structure simulates field behavior. *(Law 15: Conscious Emergence)*
+- `E = Fₚ – Fᵣ`  
+  Emergent energy is the difference between activaion pressure and the structural recognition limit. When flicker pressure exceeds this threshold, surplus energy is released. When they are equal, mass is stable.  
+  *(Law 6, Law 9, Law 13)*
 
----
+- `E_k = (1/2) · m · v²`  
+  Ripple kinetic energy. *(Law 6, Law 9)*
 
-## Redshift & Cosmological Pressure
+- `E_p = P_s · d_s`  
+  Potential energy as product of pressure and distance. *(Law 7)*
 
-- `κ = Δλ / Δd` — Redshift as coherence drag. *(Law 7: Structural Resistance and Redshift)*  
-- `z = (λ_obs – λ₀) / λ₀ = κ · d · P_H` — Redshift from resistance and pressure, not velocity. *(Law 7, Law 11: Coherence Horizon)*  
-- `z = f(κ · d)` — Generalized structural redshift model. *(Law 7)*
-
----
-
-## Structural Pressure & Force
-
-- `P = F / A` — Structural pressure from force over activated area. *(Law 7: Structural Resistance, Law 8: Structural Thickening)*
+- `E = P_s · V · γ`  
+  Total energy of coherence field based on structure volume. *(Law 3)*
 
 ---
 
-## Simulation Logic (Rules)
+## Redshift and Field Dispersion
 
-- `Ripple Update:` If Σ R_in ≥ A_threshold and C ≥ C_min → Flicker → send ripple to neighbors and log time/memory. *(Law 6: Flicker Coherence, Law 10: Contact Ignition)*
+- `z = (λ_obs – λ₀) / λ₀ = κ · d · P_H`  
+  Redshift as function of distance and background field pressure. *(Law 14)*
+
+---
+
+## Entropy and Coherence States
+
+- `S = k_s · ln(Ω_s)`  
+  Structural entropy based on number of coherent configurations. *(Law 12)*
+
+---
+
+## Coherence Threshold and Propagation
+
+- `C(x,t) ∝ N(x,t) / (1 + d / (v · T_f))`  
+  Local coherence is proportional to node density and inversely proportional to distance, propagation velocity, and local tempo. Defines the spatial structure of coherence across a ripple path. *(Law 4, Law 6, Law 13)*
+
+- `C = ρ / σ`  
+  The coherence threshold condition: ripple pressure (ρ) must exceed structural failure pressure (σ) for a signal to propagate. If `C < 1`, the ripple collapses. *(Law 6, Law 13, Law 15)*

@@ -49,3 +49,24 @@ Interference strength resulting from overlapping ripple vectors at a given point
 **Submitted:** 2025-07-19
 
 ——-
+---
+
+### Tempo = Flicker Rhythm
+
+**Source:** `time_tempo_sequence.md`  
+**Status:** Conceptual Identity  
+
+**Description:**  
+Defines tempo as the measurable rate at which structural nodes flicker in a given region. Suggests that all temporal experience emerges from local structural rhythm.
+
+**Notes:**  
+This expression is foundational to SET’s redefinition of time. It reframes perceived time flow as a rhythm governed by structure rather than as an external dimension.  
+Requires formalization into testable flicker-frequency equations.
+
+**Conflicts:**  
+None detected in `Equations.md`
+
+**Status:** ⏳ Pending Review  
+**Submitted:** 2025-07-21
+
+--- 

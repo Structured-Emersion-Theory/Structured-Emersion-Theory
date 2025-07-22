@@ -26,17 +26,19 @@ nav:
   - Modules:
       - Node Theory: modules/Node_Theory.md
       - Field Collisions: modules/Field_Collisions.md
-      - Quantum Reframes: modules/Quantum_Reframes.md
-      - Time Tempo: modules/Time_Tempo.md
-      - Consciousness Field: modules/Consciousness_Field.md
+      - Time & Tempo Sequence: modules/time_tempo_sequence.md
+      - Energy from Flicker Pressure: modules/energy_from_flicker_pressure.md
+      - Quantum Field Rewrites: modules/quantum_field_rewrites.md
+      - Black Holes and Collapse: modules/Black_Holes_and_Collapse.md
+      - Black Holes and Galaxies: modules/Black_Holes_and_Galaxies.md
   - Workbench:
       - Charge Field Alignment: Workbench/Charge_Field_Alignment.md
       - Ripple Cascade: Workbench/Ripple_Cascade.md
+      - Node Class: Workbench/Node_Class_Differentiation.md
+      - Tunneling: Workbench/Tunneling_Tempo_Compression.md
   - Simulations:
       - Simulation Notes: sim/Simulation_Notes.md
   - Archive:
-      - Core Concepts: archive/core_concepts.md
-      - Equations (Meta): archive/equations.md
       - Meta Reflections: archive/meta_reflections.md
   - For AI Assistants:
       - Integration Protocol: ai_assistants/Integration_Protocol.md
