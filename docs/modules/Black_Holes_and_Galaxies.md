@@ -1,5 +1,5 @@
-# Structured Emersion Theory (SET)
-## Black Holes and Galactic Formation
+# Black Holes and Galactic Formation
+
 ## Core Principle
 Black holes are not objects.
 They are rupture zones of structural imbalance—massive containment failures that leak geometry into the surrounding universe.

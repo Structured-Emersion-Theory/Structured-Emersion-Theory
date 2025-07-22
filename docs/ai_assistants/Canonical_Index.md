@@ -41,6 +41,10 @@ Energy from Flicker Pressure: https://structured-emersion-theory.github.io/Struc
 
 Quantum Field Rewrites: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/quantum_field_rewrites/
 
+Black Holes and Collapse: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Black_Holes_and_Collapse/
+
+Black Holes and Galactic Formation: https://structured-emersion-theory.github.io/Structured-Emersion-Theory/modules/Black_Holes_and_Galaxies/
+
 ---
 
 ## Workbench
