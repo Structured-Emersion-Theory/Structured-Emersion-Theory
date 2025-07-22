@@ -1,4 +1,3 @@
-
 # Unified Equations
 
 ---
@@ -9,7 +8,7 @@
   Node activation from local field φ with decay rate γ and coupling constant μ. *(Law 2, Law 10)*
 
 - `Θ(Σ R_in – A_threshold) · Θ(C – C_min) = 1`  
-  Node flicker condition reformulated using Heaviside step functions. Flicker activates when ripple input and coherence exceed thresholds. *(Law 6)*
+  Node activation condition using ripple input and coherence threshold. *(Law 6)*
 
 ---
 
@@ -29,10 +28,10 @@
 
 ---
 
-## Time and Tempo
+## Time
 
-- `T_local = T₀ / (1 + R)`  
-  Local tempo is inversely proportional to structural resistance. As resistance increases, tempo slows. *(Law 4, Law 7)*
+- `τ_local = τ₀ / (1 + R)`  
+  Local time is inversely proportional to structural resistance. As resistance increases, time slows. *(Law 4, Law 7)*
 
 - `dC/dt = –λ_c · C`  
   Coherence decay modeled as exponential function. *(Law 13, Law 12)*
@@ -52,15 +51,11 @@
 
 ---
 
-## Energy Forms
-
----
-
-## Energy and Flicker Pressure
+## Energy and Activation Pressure
 
 - `E = Fₚ – Fᵣ`  
-  Emergent energy is the difference between flicker pressure and the structural recognition limit. When flicker pressure exceeds this threshold, surplus energy is released. When they are equal, mass is stable.  
-  *(Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 13 – Collapse and Field Reformation)*
+  Emergent energy is the difference between activaion pressure and the structural recognition limit. When flicker pressure exceeds this threshold, surplus energy is released. When they are equal, mass is stable.  
+  *(Law 6, Law 9, Law 13)*
 
 - `E_k = (1/2) · m · v²`  
   Ripple kinetic energy. *(Law 6, Law 9)*
@@ -86,3 +81,11 @@
   Structural entropy based on number of coherent configurations. *(Law 12)*
 
 ---
+
+## Coherence Threshold and Propagation
+
+- `C(x,t) ∝ N(x,t) / (1 + d / (v · T_f))`  
+  Local coherence is proportional to node density and inversely proportional to distance, propagation velocity, and local tempo. Defines the spatial structure of coherence across a ripple path. *(Law 4, Law 6, Law 13)*
+
+- `C = ρ / σ`  
+  The coherence threshold condition: ripple pressure (ρ) must exceed structural failure pressure (σ) for a signal to propagate. If `C < 1`, the ripple collapses. *(Law 6, Law 13, Law 15)*

@@ -1,9 +1,9 @@
 ---
-title: Energy from Flicker Pressure
+title: Energy from Activation Pressure
 module: Energy_Reframes
 ---
 
-# Energy from Flicker Pressure
+# Energy from Activation Pressure
 
 ## Reframing Classical Energy
 
@@ -20,7 +20,7 @@ SET does not reject this — instead, it reframes why it works.
 **E = Fₚ – Fᵣ**
 
 Where:  
-- **Fₚ** = Flicker Pressure — the total emergent activation force applied to a node by the structure  
+- **Fₚ** = node activation Pressure — the total emergent node activation force applied to a node by the structure  
 - **Fᵣ** = Recognition Limit — the coherence threshold required to maintain mass stability  
 - **E** = emergent energy as the overflow beyond mass stabilization
 
@@ -29,7 +29,7 @@ Where:
 ## Interpretation
 
 - If **Fₚ = Fᵣ** → Stable mass exists  
-- If **Fₚ > Fᵣ** → Excess flicker force radiates as energy  
+- If **Fₚ > Fᵣ** → Excess node activation force radiates as energy  
 - If **Fₚ < Fᵣ** → Node remains inactive or coherence fails
 
 ---
@@ -38,16 +38,16 @@ Where:
 
 SET reframes energy not as a fundamental quantity, but as structural surplus:  
 > Energy is pressure the structure can no longer hold.  
-> Mass is pressure stabilized through flicker coherence.
+> Mass is pressure stabilized through node activation coherence.
 
 ---
 
 ## Classical Bridge
 
-Under stable flicker containment:
+Under stable node activation containment:
 > Fᵣ ≈ mc²
 
-This makes Einstein’s formulation a derived special case of SET’s flicker dynamics.
+This makes Einstein’s formulation a derived special case of SET’s node activation dynamics.
 
 ---
 

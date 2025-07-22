@@ -5,7 +5,7 @@ This glossary defines the primary concepts and terms used in the SET framework. 
 ---
 
 **Structure**  
-A foundational, continuous relational lattice. Not a background or substrate, but the totality of all potential node interactions. The source of coherence, resistance, and tempo.  
+A foundational, continuous relational lattice. Not a background or substrate, but the totality of all potential node interactions. The source of coherence, resistance, and tempo. This is the Universe.
 Related: Node, Coherence, Ripple
 
 ---
@@ -16,9 +16,18 @@ Related: Law 2 – Nodes as Relational Potentials, Law 10 – Contact Ignition
 
 ---
 
-**Activation**  
-The state change of a node from potential to active due to structural contact. All emergence, ripple, or mass begins with activation.  
+**Node Activation**  
+The state change of a node from latent potential to active state, triggered when local activation conditions are met. These may include ripple interference, field overlap, or coherence saturation reaching a structural threshold.
+
+Activation typically propagates from node to node, but it may also occur spontaneously in response to fluctuations in local structure. All emergence, ripple, and mass begin with activation.  
 Related: Equation – Aᵢ(t) = μ · φ(x, t) · e^(–γt)
+
+
+---
+
+**Activation Pressure**  
+The total structural activation force exerted on a node by the surrounding lattice. It represents the intensity of coherent ripple energy acting to stabilize or destabilize local flicker.  
+Related: Equation – E = Fₚ – Fᵣ, Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field
 
 ---
 
@@ -34,21 +43,15 @@ Related: Law 5 – Ripple Propagation, Equations – R(x, t), Rᵢ(t), R_net
 
 ---
 
+**Ripple Pressure**  
+The transient activation force carried by a ripple as it propagates through structure. Ripple pressure determines whether signal coherence can be sustained across nodes. It must exceed local structural failure pressure for propagation to continue.  
+Related: Law 5 – Ripple Propagation, Law 6 – Flicker Coherence, Law 13 – Collapse, Equation – C = ρ / σ
+
+---
+
 **Structural Resistance**  
 The measure of how much effort is required for a ripple to maintain coherence across a region. Resistance varies based on structure density and interference history.  
 Related: Law 7 – Structural Resistance and Redshift, Equation – F_g = –∇P_s
-
----
-
-**Flicker**  
-A localized, rhythmic node oscillation caused by stabilized interference. Flickers are the basis of coherent emergence (e.g., mass, time).  
-Related: Law 6 – Flicker Coherence
-
----
-
-**Flicker Pressure**  
-The total structural activation force exerted on a node by the surrounding lattice. It represents the intensity of coherent ripple energy acting to stabilize or destabilize local flicker.  
-Related: Equation – E = Fₚ – Fᵣ, Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field
 
 ---
 
@@ -59,14 +62,18 @@ Related: Equation – E = Fₚ – Fᵣ, Law 6 – Flicker Coherence, Law 13 –
 ---
 
 **Coherence**  
-The ability of a ripple or flicker to maintain internal rhythm across space. Coherence loss results in redshift, collapse, or signal death.  
+A structural state in which node activations maintain stable relational alignment across space and time. Coherence enables ripple propagation, memory, and emergence by preserving signal integrity under structural conditions.
+
+Coherence is sustained only if ripple pressure exceeds the structural failure threshold. This defines the coherence threshold state: a relational condition where signal integrity persists. If pressure drops below this state, coherence breaks and ripple propagation fails. Coherence loss results in redshift, collapse, or signal decay.  
 Related: Law 6, Law 7, Law 13, Equation – dC/dt = –λ_c · C
+
 
 ---
 
-**Tempo**  
-The rate of local activation change. Time is not absolute—it is the rhythm of structural behavior. Dilation is a difference in tempo across regions.  
+**Time**  
+The rate of local activation change. Signal propagation speed is governed by local tempo. Faster structural tempo allows ripples to travel farther before coherence decays. Dilation is a difference in tempo across regions.  
 Related: Law 4 – Time as Local Tempo, Equation – T_local = T₀ / (1 + R)
+
 
 ---
 
@@ -158,3 +165,17 @@ Related: Law 13 – Collapse and Field Reformation, Law 15 – Overlap Field Col
 **Containment Collapse**  
 The failure of structural containment required to maintain a stable flicker pattern. Occurs when flicker intensity exceeds coherence limits, resulting in collapse and null activation. Black holes are modeled in SET as containment collapses, not mass points.  
 Related: Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 13 – Collapse and Field Reformation
+
+---
+
+**Flicker Orientation**  
+The directional alignment of node flicker patterns within a structural region. Flicker orientation determines local polarity by biasing ripple flow in or against the dominant field tension. It is the core mechanism behind emergent charge in SET.  
+Related: Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 10 – Contact Ignition
+
+---
+
+**Structural Failure**  
+The critical state in which structure can no longer sustain coherent flicker propagation. When resistance exceeds ripple pressure, node activation collapses and no signal can propagate. Structural failure defines zones of collapse, entropy, or null propagation such as black holes or high-entropy fields.  
+Related: Law 13 – Collapse and Field Reformation, Law 15 – Overlap Collapse, Coherence
+
+---

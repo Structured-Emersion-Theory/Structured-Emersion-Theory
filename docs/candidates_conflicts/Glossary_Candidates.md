@@ -35,3 +35,20 @@ This file tracks all proposed glossary additions, refinements, or replacements. 
 
 **Status:**  Pending Review  
 **Submitted:** 2025-07-21
+
+---
+
+### Entry ID: 2025-07-22-G02  
+**Term:** Magnetic Containment Zone  
+**Type:** 📥 New Entry
+
+**Definition:**  
+> A region of structure where coherent flicker alignment persists under local resistance. Magnetic fields in SET are modeled as dynamic containment zones of directional flicker, not as static field lines or intrinsic properties.
+
+**Note:**  
+- Introduced in `Charge_and_Field_Alignment.md`
+- Reframes magnetism as a flicker alignment effect
+- Requires future simulation for full validation
+
+**Status:** ⏳ Pending Review  
+**Submitted:** 2025-07-22

@@ -42,11 +42,11 @@ Ripples are cascading node activations. They carry no mass or charge—only inte
 
 ---
 
-## Law 6 – Flicker Coherence
+## Law 6 – Structural Coherence
 When ripple interference becomes regularized, it produces flickers—oscillating activation loops. Stable flickers are precursors to mass and form.
 
-- (Related: Flicker threshold — `Θ(Σ R_in – A_threshold) · Θ(C – C_min)`)
-- (Related: Kinetic energy of flicker mass — `E_k = (1/2) · m · v²`)
+- (Related: Activation threshold — `Θ(Σ R_in – A_threshold) · Θ(C – C_min)`)
+- (Related: Kinetic energy of Activation mass — `E_k = (1/2) · m · v²`)
 
 ---
 
