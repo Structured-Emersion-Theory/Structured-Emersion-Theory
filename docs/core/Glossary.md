@@ -95,12 +95,6 @@ Related: Law 9 – Mass as Containment Field, Equation – m = dP/da
 
 ---
 
-**Structural Trace**  
-The imprint left by prior flicker or ripple events through structure. A measurable history of coherence paths altered by resistance.  
-Related: Law 9 – Ripple Path, Coherence, Pressure
-
----
-
 **Redshift**  
 A degradation in signal coherence over distance. SET interprets redshift as coherence loss, not velocity.  
 Related: Law 7, Equation – z = κ · d · P_H
@@ -108,63 +102,13 @@ Related: Law 7, Equation – z = κ · d · P_H
 ---
 
 **Entropy**  
-A structural measure of potential configuration states. As systems lose coherence, the number of possible node arrangements increases.  
+A structural measure of potential configuration states. As systems lose coherence, the number of possible node arrangements decreases.  
 Related: Law 12 – Imperfection and Emergence, Equation – S = k_s · ln(Ω_s)
 
 ---
 
 **Equilibrium**  
-A system state in which flicker, ripple, and collapse are locally balanced. Activation introduces tension, and tension resolves toward equilibrium.  
-Related: Law 14 – Equilibrium Drive
-
----
-
-**Perceived Irreversibility**  
-The appearance of a forward arrow of time caused by loss of coherence in open systems. As flicker fidelity degrades, future states become less predictable.  
-Related: Law 12 – Entropy Gradient, Entropy, Decay
-
----
-
-**Scale Invariance**  
-The property that SET behaviors persist across magnitude — from quantum to cosmic. Resistance, ripple, and emergence follow the same governing logic.  
-Related: Law 1 – Structural Recursion, Law 7 – Fractal Equilibrium, Equation – Ripple = Resistance × Activation
-
----
-
-**Temporal Coherence**  
-The alignment of local flicker rhythms across nodes or regions of structure. Enables causality, feedback, and ripple propagation within a bounded tempo.  
-Related: Law 6 – Flicker Coherence, Ripple, Tempo
-
----
-
-**Resonant Flicker**  
-Self-reinforcing flicker patterns in a contained structure. Enables memory, oscillation, and signal continuity within closed systems.  
-Related: Law 10 – Containment, Node, Echo
-
-
----
-
-**Flicker Readiness**  
-The structural state of a node being aligned with multiple ripple pathways. Readiness does not imply indecision, but rather a simultaneous match to more than one potential activation vector.  
-Related: Law 6 – Flicker Coherence, Superposition (see: Quantum_Reframes.md)
-
----
-
-**Shared Tempo**  
-A coherence condition in which multiple nodes or structures maintain synchronized flicker rhythms. Enables nonlocal resonance effects such as entanglement via unified temporal alignment.  
-Related: Law 6 – Flicker Coherence, Tempo, Entanglement (see: Quantum_Reframes.md)
-
----
-
-**Silence Field**  
-A coherence-dead structural region where flicker and ripple have collapsed beyond recovery threshold. This null state results from structural overcompression and marks the failure of emergence. Silence fields behave as local null zones—zones of zero activation—until reformation pressure accumulates.  
-Related: Law 13 – Collapse and Field Reformation, Law 15 – Overlap Field Collapse
-
----
-
-**Containment Collapse**  
-The failure of structural containment required to maintain a stable flicker pattern. Occurs when flicker intensity exceeds coherence limits, resulting in collapse and null activation. Black holes are modeled in SET as containment collapses, not mass points.  
-Related: Law 6 – Flicker Coherence, Law 9 – Mass as Containment Field, Law 13 – Collapse and Field Reformation
+A system state in which node activation, ripple, and collapse are locally balanced. Node activation introduces tension, and tension resolves toward equilibrium.
 
 ---
 

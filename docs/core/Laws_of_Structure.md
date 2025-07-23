@@ -27,8 +27,8 @@ Fields are not background substrates. They are coherent activation patterns amon
 
 ---
 
-## Law 4 – Time as Local Tempo
-Time is not a dimension. It is the local rate of relational activation. Tempo differs between regions due to structural pressure, density, or interference.
+## Law 4 – Time
+Time is not a dimension. It is the local rate of relational activation. Time differs between regions due to structural pressure, density, or interference.
 
 - (Related: Time dilation — `T_local = T₀ / (1 + R)`)
 
@@ -43,7 +43,7 @@ Ripples are cascading node activations. They carry no mass or charge—only inte
 ---
 
 ## Law 6 – Structural Coherence
-When ripple interference becomes regularized, it produces flickers—oscillating activation loops. Stable flickers are precursors to mass and form.
+Coherence is the sustained alignment of node activations that allows ripple propagation across structure. It is maintained when ripple pressure is sufficient to overcome local structural resistance.
 
 - (Related: Activation threshold — `Θ(Σ R_in – A_threshold) · Θ(C – C_min)`)
 - (Related: Kinetic energy of Activation mass — `E_k = (1/2) · m · v²`)
@@ -59,7 +59,7 @@ Redshift is not caused by recession velocity. It is a degradation of coherence d
 ---
 
 ## Law 8 – Structural Thickening
-Massive objects increase structural resistance in their vicinity. This thickening stabilizes flickers, alters local tempo, and allows form to persist in orbit.
+Massive objects increase structural resistance in their vicinity. This thickening stabilizes node activation slows time, and allows form to persist in orbit.
 
 - (Related: Resistance-dependent time — `T_local`)
 - (Related: Pressure-based gravity — `F_g = –∇P_s`)
@@ -67,54 +67,30 @@ Massive objects increase structural resistance in their vicinity. This thickenin
 ---
 
 ## Law 9 – Mass as Containment Field
-Mass is not intrinsic. It is the resistance required to maintain flicker coherence within a localized activation zone.
+Mass is not intrinsic. It is the resistance to node activation.
 
 - (Related: Mass from resistance — `m = dP/da`)
 - (Related: Potential energy — `E_p = P_s · d_s`)
 
 ---
 
-## Law 10 – Contact Ignition
-A node activates only through field contact. Without contact, it remains inert. Without nodes, fields collapse.
-
-- (Related: Node activation — `Aᵢ(t)`)
-
----
-
-## Law 11 – The Coherence Horizon
+## Law 10 – The Coherence Horizon
 The boundary of the observable universe is determined by loss of coherence—not by light speed or expansion. Moving the observer changes the coherence limit.
 
 - (Related: Redshift scaling and boundary logic — `z = κ · d · P_H`)
 
 ---
 
-## Law 12 – Imperfection and Emergence
-Perfect structure cannot generate complexity. All emergence originates in zones of incoherence or instability.
-
-- (Related: Entropy — `S = k_s · ln(Ω_s)`)
-
----
-
-## Law 13 – Collapse and Field Reformation
-When field coherence exceeds threshold limits, local collapse occurs. Collapse is not destruction, but restructuring toward a new activation state.
+## Law 11 – Collapse and Field Reformation
+When coherence exceeds threshold limits, local collapse occurs. Collapse is not destruction, but restructuring toward a new activation state.
 
 - (Related: Coherence decay — `dC/dt = –λ_c · C`)
 - Collapse initiates when coherence \( C \) falls below sustainable thresholds, triggering reformation based on local structure.
 
 ---
 
-## Law 14 – Equilibrium Drive
-All structural systems move toward equilibrium. Activation introduces tension; tension propagates or resolves through flicker, ripple, or collapse.
+## Law 12 – Equilibrium
+All structural systems move toward equilibrium. Activation introduces tension; tension propagates or resolves through node activation, ripple, or collapse.
 
 - (Related: Ripple & collapse balancing — `R(x, t)`, `dC/dt`)
 
----
-
-## Law 15 – Overlap Field Collapse  
-When multiple high-tension fields converge and coherence thresholds are exceeded, they may collapse into a singular, structureless overlap field. This field retains compressed potential from its progenitor fields but lacks internal activation coherence. Overlap fields behave as null activation zones under extreme structural pressure and can act as seeds for future reformation.
-
-- (Related: Collision dynamics — see Simulation_Notes.md and Field_Collisions.md)
-- (Related: Coherence decay — `dC/dt = –λ_c · C`)
-- (Related: Law 13 – Collapse and Field Reformation)
-
----

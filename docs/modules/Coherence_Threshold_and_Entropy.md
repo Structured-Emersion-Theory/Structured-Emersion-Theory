@@ -6,9 +6,8 @@
 
 ## I. Coherence as Local Structural Rhythm
 
-In Structured Emersion Theory (SET), coherence is not a universal constant. It is a local condition — the ability of nodes to sustain Activation communication in their region.
+Coherence is a structural state in which node activations maintain stable relational alignment across space and time. Coherence enables ripple propagation, memory, and emergence by preserving signal integrity under structural conditions.
 
-A node is coherent when its activation timing matches the local tempo of surrounding nodes, sustaining ripple propagation through the structure.
 
 **Key factors affecting coherence:**
 - Distance between nodes (`d`)
@@ -39,7 +38,7 @@ High coherence regions allow signals to travel farther. Low coherence leads to s
 
 ---
 
-## III. Threshold Function for Ripple Survival
+## III. Threshold Function for Ripple Dissipation 
 
 Ripple propagation also depends on overcoming local structural inertia.
 
